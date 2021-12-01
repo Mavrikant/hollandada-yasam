@@ -9,6 +9,7 @@ github_username:  altanpazarli
 theme: just-the-docs
 plugins:
   - jekyll-seo-tag
+  - jekyll-sitemap
 remote_theme: pmarsceill/just-the-docs
 
 # Aux links for the upper right navigation
