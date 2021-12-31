@@ -1,10 +1,23 @@
 ---
-# Feel free to add content and custom Front Matter to this file.
-# To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
-
 layout: default
 title: Anasayfa
+nav_order: 1
+description: "HollandadaYaşam.com, Hollanda hakkında merak edilen ve sıkça sorulan soruların cevaplarının bulunduğu bir websitesidir. "
 permalink: /
 ---
 
-# Under construction
+# Hollanda'da Yaşam
+{: .fs-9 }
+
+Eğer burayı okuyorsan muhtemelen Hollanda'ya taşındın ya da taşınmayı düşünüyorsun. Yeni maceranda şimdiden başarılar. Hollanda hakkında bir çok bilgiye ulaşmak için doğru yerdesin. 
+{: .fs-6 .fw-300 }
+
+[Hoşgeldin](#Hoşgeldin){: .btn .btn-primary .fs-5 .mb-4 .mb-md-0 .mr-2 } [GitHub'da göster](https://github.com/altanpazarli/hollandada-yasam){: .btn .fs-5 .mb-4 .mb-md-0 }
+
+---
+
+## Hoşgeldin!
+
+### Neler var?
+
+Burada Holllanda'da yaşam hakkında bilgiler, kolay ipuçları belki de sorularına cevaplar bile bulabilirsin.
