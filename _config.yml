@@ -7,10 +7,11 @@ github_username:  altanpazarli
 
 # Build settings
 theme: just-the-docs
+remote_theme: https://github.com/pmarsceill/jtd-remote
+
 plugins:
   - jekyll-seo-tag
   - jekyll-sitemap
-# remote_theme: https://github.com/pmarsceill/jtd-remote
 
 # Aux links for the upper right navigation
 aux_links:
