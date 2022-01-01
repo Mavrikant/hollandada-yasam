@@ -2,8 +2,7 @@
 title: Hollanda'da Yaşam
 description: >- # this means to ignore newlines until "baseurl:"
   Hollanda'da yaşama dair sıkça sorulan sorular, merak edilenler
-url: "https://www.hollandadayasam.com"
-github_username:  altanpazarli
+url: ""
 
 # Build settings
 theme: just-the-docs
@@ -19,7 +18,3 @@ aux_links:
 
 # Makes Aux links open in a new tab
 aux_links_new_tab: true
-
-# Google Analytics Tracking
-ga_tracking: G-7KGQE79SSQ
-ga_tracking_anonymize_ip: true # Use GDPR compliant Google Analytics settings

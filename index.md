@@ -9,10 +9,10 @@ permalink: /
 # Hollanda'da Yaşam
 {: .fs-9 }
 
-Eğer burayı okuyorsan muhtemelen Hollanda'ya taşındın ya da taşınmayı düşünüyorsun. Yeni maceranda şimdiden başarılar. Hollanda hakkında bir çok bilgiye ulaşmak için doğru yerdesin. 
+Eğer burayı okuyorsan muhtemelen Hollanda'ya taşındın ya da taşınmayı düşünüyorsun. Yeni maceranda şimdiden başarılar! Hollanda hakkında bir çok bilgiye ulaşmak için doğru yerdesin. 
 {: .fs-6 .fw-300 }
 
-[Hoşgeldin](#Hoşgeldin){: .btn .btn-primary .fs-5 .mb-4 .mb-md-0 .mr-2 } [GitHub'da göster](https://github.com/altanpazarli/hollandada-yasam){: .btn .fs-5 .mb-4 .mb-md-0 }
+[Hoşgeldin](#Hoşgeldin){: .btn .btn-primary .fs-5 .mb-4 .mb-md-0 .mr-2 } [GitHub'da göster](https://github.com/altanpazarli/hollandada-yasam){: target="_blank" .btn .fs-5 .mb-4 .mb-md-0 }
 
 ---
 
@@ -20,4 +20,4 @@ Eğer burayı okuyorsan muhtemelen Hollanda'ya taşındın ya da taşınmayı d�
 
 ### Neler var?
 
-Burada Holllanda'da yaşam hakkında bilgiler, kolay ipuçları belki de sorularına cevaplar bile bulabilirsin.
+Burada Holllanda'da yaşam hakkında bilgiler, kolay ipuçları, sorularına cevaplar bulabilirsin.
