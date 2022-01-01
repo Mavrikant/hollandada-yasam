@@ -6,7 +6,7 @@ url: "https://www.hollandadayasam.com"
 github_username:  altanpazarli
 
 # Build settings
-remote_theme: pmarsceill/just-the-docs
+theme: just-the-docs
 
 plugins:
   - jekyll-seo-tag
