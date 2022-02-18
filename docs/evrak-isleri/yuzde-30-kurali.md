@@ -1,6 +1,6 @@
 ---
 layout: default
-title: %30 Kuralı
+title: 30% Kuralı
 parent: Evrak İşleri
 nav_order: 3
 ---
