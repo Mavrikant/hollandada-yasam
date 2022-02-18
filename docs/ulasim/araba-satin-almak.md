@@ -4,6 +4,7 @@ title: Araba Satın Almak
 parent: Araba
 grand_parent: Ulaşım
 nav_order: 2
+permalink: /dokumanlar/ulasim/araba/araba-satin-almak
 ---
 
 # Araba Satın Almak

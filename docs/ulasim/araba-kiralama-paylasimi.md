@@ -4,6 +4,7 @@ title: Araba Kiralama(leasing) ve Paylaşımlı Araçlar
 parent: Araba
 grand_parent: Ulaşım
 nav_order: 1
+permalink: /dokumanlar/ulasim/araba/araba-kiralamak
 ---
 
 # Araba Kiralama(leasing) ve Paylaşımlı Araçlar
