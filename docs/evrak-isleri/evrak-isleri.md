@@ -1,12 +1,12 @@
 ---
 layout: default
-title: Evrak İşleri
-nav_order: 2
+title: Barınmak
+nav_order: 3
 has_children: true
-permalink: /dokumanlar/evrak-isleri
+permalink: /dokumanlar/barinmak
 ---
 
-# Evrak İşleri
+# Barınmak
 
 [//]: # (TBD)
 [//]: # (To make it as easy as possible to write documentation in plain Markdown, most UI components are styled using default Markdown elements with few additional CSS classes needed.)

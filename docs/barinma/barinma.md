@@ -1,11 +1,12 @@
 ---
 layout: default
-title: Banka Hesabı Açmak
-parent: Evrak İşleri
+title: Barınma
 nav_order: 2
+has_children: true
+permalink: /dokumanlar/barinma
 ---
 
-# Banka hesabı açmak
+# Evrak İşleri
 
 [//]: # (TBD)
 [//]: # (To make it as easy as possible to write documentation in plain Markdown, most UI components are styled using default Markdown elements with few additional CSS classes needed.)

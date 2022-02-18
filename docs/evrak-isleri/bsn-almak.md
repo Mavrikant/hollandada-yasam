@@ -1,6 +1,6 @@
 ---
 layout: default
-title: BSN(Burgerservicenummer) almak
+title: BSN(Burgerservicenummer) Almak
 parent: Evrak İşleri
 nav_order: 1
 ---
