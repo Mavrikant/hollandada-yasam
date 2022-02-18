@@ -2,6 +2,7 @@
 layout: default
 title: Araba
 parent: Ulaşım
+has_children: true
 nav_order: 2
 ---
 
