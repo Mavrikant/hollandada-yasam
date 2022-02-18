@@ -20,4 +20,4 @@ Eğer burayı okuyorsan muhtemelen Hollanda'ya taşındın ya da taşınmayı d�
 
 ### Neler var?
 
-Burada Holllanda'da yaşam hakkında bilgiler, kolay ipuçları, sorularına cevaplar bulabilirsin.
+Burada Hollanda'da yaşam hakkında bilgiler, kolay ipuçları, sorularına cevaplar bulabilirsin.
