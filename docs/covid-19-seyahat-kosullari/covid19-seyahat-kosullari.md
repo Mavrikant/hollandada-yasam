@@ -2,7 +2,7 @@
 layout: default
 title: Covid-19 Seyahat Koşulları
 nav_order: 8
-has_children: true
+has_children: false
 permalink: /dokumanlar/covid-19-seyahat-kosullari
 ---
 
