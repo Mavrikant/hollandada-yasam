@@ -1,9 +1,9 @@
 ---
 layout: default
-title: Olmazsa Olmaz Uygulamalar
+title: Faydali Appler
 nav_order: 6
 has_children: false
-permalink: /dokumanlar/uygulamalar
+permalink: /dokumanlar/faydali-appler
 ---
 
 # Olmazsa olmaz uygulamalar
