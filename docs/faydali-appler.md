@@ -1,12 +1,12 @@
 ---
 layout: default
-title: Faydali Appler
+title: Faydalı Appler
 nav_order: 6
 has_children: false
 permalink: /dokumanlar/faydali-appler
 ---
 
-# Olmazsa olmaz uygulamalar
+# Faydalı Appler
 
 [//]: # (TBD)
 [//]: # (To make it as easy as possible to write documentation in plain Markdown, most UI components are styled using default Markdown elements with few additional CSS classes needed.)
