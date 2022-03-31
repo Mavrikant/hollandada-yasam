@@ -29,12 +29,8 @@ permalink: /dokumanlar/covid-19-seyahat-kosullari
 #### Kabul edilen aşılar
 - AstraZeneca (SK Bioscience), AstraZeneca (Vaxzevria), Covaxin, Covishield, Covovax, Moderna (Spikevax), Nuvaxovid (Novavax), Pfizer-BioNTech (Comirnaty), Sinopharm or Sinovac. Varıştan en az 14 gün önce düzenlenmiş ve 14 Ağustos 2021'den önce aşılanmış Janssen (Johnson & Johnson için tek doz) COVID-19 sertifikasına sahip olan yolcular
 
-### COVID-19 Test:
-- Hollanda'ya seyahat edecek veya transfer olarak kullanacak bütün yolcuların kalkış öncesi numune veriliş tarihi 0-48 saat içerisinde olan negatif LAMP, MPOCT, NAAT, PCR, RT-PCR, TMA testlerinden biri veya İlk kalkış öncesi numune veriliş tarihi 0-24 saat içerisinde olan negatif Antijen testi olması gerekmektedir. **Bu aynı zamanda aşılanmış ve iyileşmiş kişiler için de geçerlidir.**
-
-<small>Test sonucu İngilizce, Almanca, Fransızca, İtalyanca, Portekizce, İspanyolca ve Flemenkçe olmalıdır.</small>
-
 #### Testten muaf olanlar:
+- **Varıştan en az 14 gün önce düzenlenmiş iki doz Covid-19 aşı sertifikasına (Johnson & Johnson için tek doz) sahip** olan yolcular.
 - 12 yaşından küçük yolcular
 - Diplomatik pasaportlu ya da Diplomatik oturum sahipleri
 - Gemi adamları
