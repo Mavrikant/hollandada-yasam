@@ -8,7 +8,8 @@ permalink: /ehliyet-degisimi
 
 ### Ehliyet Değişimi
 
-[%30 kuralı](/yuzde-otuz-kurali)nın onaylanması ile beraber eğer varsa Türkiye'de ehliyetinizi değiştirmeye hak kazanırsınız. Bu işlemi
+[%30 kuralı](/yuzde-otuz-kurali)nın onaylanması ile beraber eğer varsa Türkiye'de ehliyetinizi değiştirmeye hak
+kazanırsınız. Bu işlemi
 taşındıktan sonra istediğiniz zaman yapabilirsiniz. Türkiye'de almış olduğunuz ehliyetin Hollanda'da ilk 6 ay geçerli
 olduğunu unutmayın.
 
@@ -22,10 +23,12 @@ olduğunuz belediyenin resmi sitesine göz atabilirsiniz.
 
 * Değiştirmek istediğiniz ehliyet
 * Pasaport veya oturum izni
-* Uygun ölçülerde fotoğraf. Detaylara buradan
-  ulaşabilirsiniz https://www.government.nl/topics/identification-documents/requirements-for-photos
-* Hollanda vergi dairesi'nden(Belastingdienst) gelmiş %30 onay belgesinin kopyası
-* Sağlık raporu(Gezondheidsverklaring) [CBR])(https://www.cbr.nl/nl/rijbewijs-houden/nl/gezondheidsverklaring.htm)
+* Uygun ölçülerde fotoğraf. Detayli
+  bilgiye [Hollanda resmi sitesinden](https://www.government.nl/topics/identification-documents/requirements-for-photos)
+  ulaşabilirsiniz.
+* Hollanda vergi dairesi'nden(Belastingdienst) gelmiş olan %30 onay belgesinin kopyası. Eger elinizde yoksa
+  isvereninizden isteyebilirsiniz.
+* Sağlık raporu(Gezondheidsverklaring) [CBR](https://www.cbr.nl/nl/rijbewijs-houden/nl/gezondheidsverklaring.htm)
   üzerinden online olarak alınabilir.
 
 ### Ne kadara mal olur?
