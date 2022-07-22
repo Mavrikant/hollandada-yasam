@@ -22,6 +22,10 @@ oranına denk gelen kısmını çalışanına vergisiz ödeyebilir.
 Belastingdienst)'ne yapılır. Yüksek nitelikli göçmenlerin gerekli izinleri için sponsor olabilecek kayıtlı
 işverenlenlerin listesine [buradan](https://ind.nl/en/public-register-recognised-sponsors) ulaşabilirsin.
 
+%30 kuralı onaylandıktan sonra işveren Betreft: Beschikking 30%-regeling yazılı bir posta alacaktır. Bunun bir kopyasını
+saklamanız şiddetle tavsiye edilir. Bu belge ile varsa Türkiye'deki [ehliyetinizi değiştirebilirsiniz](/ehliyet-degisimi). Aynı zamanda bir
+sonraki iş yerinizde %30 kuralının sürecini hızlandırır.
+
 ### %30 kuralini elde etmek icin uygun muyum?
 
 %30 kuralını elde edebilmek için en önemli şartlar şunlardır:
@@ -34,7 +38,7 @@ işverenlenlerin listesine [buradan](https://ind.nl/en/public-register-recognise
 
 ### Is degistiriyorum. %30 kuralını etkiler mi?
 
-Yeni işveren ise başladıktan sonraki 4 ay içinde yeni başvuru yapmalıdır.
+Yeni işveren işe başladıktan sonraki 4 ay içinde yeni başvuru yapmalıdır.
 
 Daha detaylı
 bilgiye [Belastingdienst](https://www.belastingdienst.nl/wps/wcm/connect/en/individuals/content/coming-to-work-in-the-netherlands-30-percent-facility)
