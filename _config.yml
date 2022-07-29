@@ -14,7 +14,9 @@ plugins:
 
 # Aux links for the upper right navigation
 aux_links:
-  "Hollanda'da Yaşam Github'da":
+  "Kahve ısmarla":
+    - "//buymeacoffee.com/altanpazarli"
+  "Github'da katkıda bulun":
     - "//github.com/altanpazarli/hollandada-yasam"
 
 # Makes Aux links open in a new tab
