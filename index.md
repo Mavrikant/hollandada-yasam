@@ -27,7 +27,5 @@ gidebilir ya da öğrenmek istediğin konuyu arama kutusundan aratabilirsin.
 HollandadaYasam.com yapım aşamasındadır. Daha hızlı bitmesi için kahve ısmarlayabilir ya da Github'da katkıda
 bulunabirsin.
 
-[Kahve ısmarla ☕](https://www.buymeacoffee.com/altanpazarli){: target="_blank" .btn .btn-primary .fs-5 .mb-4 .mb-md-0
-.mr-2 }
-[Github'da katkıda bulun](https://github.com/altanpazarli/hollandada-yasam){: target="_blank" .btn .fs-5 .mb-4 .mb-md-0
-}
+[Kahve ısmarla ☕](//buymeacoffee.com/altanpazarli){: target="_blank" .btn .btn-primary .fs-5 .mb-4 .mb-md-0 .mr-2 }
+[Github'da katkıda bulun](//github.com/altanpazarli/hollandada-yasam){: target="_blank" .btn .fs-5 .mb-4 .mb-md-0 }
