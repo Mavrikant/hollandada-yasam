@@ -9,14 +9,21 @@ Yardımcı olmak istersen katkıda bulunabilir ya da bana bir kahve ısmarlayabi
 
 [!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/altanpazarli)
 
+### Gereksinimler
+
+* Ruby version 2.5.0 or higher
+
+<small>Kurulum, sistem gereksinimi olan Ruby için de yükleme adımları içermektedir.</small>
+
 #### Kurulum
 
-* [Jekyll](https://jekyllrb.com/docs/installation/) kurulu olması gerekmektedir.
+* [Jekyll](https://jekyllrb.com/docs/installation/)
 
 #### Kullanım
 
+* `bundle install`
 * `jekyll serve --config _config_local.yml`
 
-#### Katkıda bulun
+#### Kaynak
 
 * [Just the Docs](https://just-the-docs.github.io/just-the-docs/docs/navigation-structure/)
