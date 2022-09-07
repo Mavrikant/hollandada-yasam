@@ -35,6 +35,7 @@ bazıları sadece bölge Hollanda olarak ayarlandığında indirilebilir.
 
 ### Para transferi
 
+- [Tikkie](https://www.tikkie.me/): Hesap/Ücret paylaşma appi. Hollanda'da en çok kullanılan applerden birisi.
 - [Wise](https://wise.com/invite/ua/altanp): Türk Lirası'ndan -> Euro'ya ya da Euro'dan -> Türk Lirası'na para
   transfer platformu. Ucuz ve hızlı.
 - [Western Union](https://ssqt.co/mQqQC9q): Euro'dan Euro'ya para transferi için ucuz ve hızlı bir platform. Bir çok
@@ -42,11 +43,10 @@ bazıları sadece bölge Hollanda olarak ayarlandığında indirilebilir.
 
 <small> *Müşterisi olduğun bankanın Swift yöntemini de kullanabilirsin fakat Swift masrafları yollayan, aracı ve alıcı bankanın kestiği ücretlere göre değişiklik gosterebilir.</small>
 
-### Online resmi işler
+### Resmi işler
 
 - [DigiD](https://www.digid.nl/): Resmi kimlik doğrulama appi. Türkiye'de, _e-Devlet ile giriş_ seçeneği gibi
   düşünülebilir. Birçok resmi platformda geçerlidir.
-
 - [Berichtenbox](https://mijn.overheid.nl/): Sanal posta kutusu. Hollanda'da resmi kurumlar mektup yoluyla haber verir.
   Berichtenbox ile gelecek
   olan postalardan daha hızlı haberdar olabilir. Aynı zamanda kağıt israfının önüne
@@ -78,6 +78,8 @@ bazıları sadece bölge Hollanda olarak ayarlandığında indirilebilir.
 
 ### Diğer
 
+- [Buien Radar](https://www.buienradar.nl/): Yağmurları gösteren app.
+- [Corona Check](https://coronacheck.nl/en): Covid-19 test ve aşılarını görüntüleybileceğiniz app.
 - [GP Info](https://gpinfo.nl/): Bağlı bulunduğunuz sağlık birimine gitmeden tavsiye alabileceğiniz websitesi.
 - [Zwem Water](https://www.zwemwater.nl/): Hollanda'da nerede yüzülür ve su kalitesini gösteren websitesi.
 - [HogeNood](https://en.hogenood.nl/): En yakın tuvaletleri gösteren app.
